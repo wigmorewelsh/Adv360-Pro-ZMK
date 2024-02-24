@@ -32,7 +32,7 @@
     };
 
     macros {
-        dyn-macro: dyn-macro {
+        dyn_macro: dyn_macro {
             label = "ZM_dynamic-macro";
             compatible = "zmk,behavior-dynamic-macro";
             #binding-cells = <1>;
